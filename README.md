@@ -48,4 +48,7 @@ Interactive AI assistant for:
 
 ---
 
-## 📂 Project Structure
+## ▶️ How to Run
+
+```bash
+streamlit run main_dashboard.py
